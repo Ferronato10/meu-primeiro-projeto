@@ -1,1 +1,2 @@
-Meu primeiro versionamento com o git. 
+Meu primeiro versionamento com o git.
+Linha nova adicionada 
